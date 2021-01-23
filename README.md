@@ -8,3 +8,12 @@ In order to get a custom report, we need to execute following commands:
 `
 mocha test/ --reporter spec
 `
+`
+mocha test/ --reporter dot
+`
+`
+mocha test/ --reporter nyan
+`
+`
+mocha test/ --reporter json
+`
