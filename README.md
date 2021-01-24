@@ -17,3 +17,9 @@ mocha test/ --reporter nyan
 `
 mocha test/ --reporter json
 `
+
+Chai is an assertion library for JavaScript frameworks.
+Installing Chai 
+`
+npm i chai -save -dev
+
